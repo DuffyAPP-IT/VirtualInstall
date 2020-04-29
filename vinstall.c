@@ -99,7 +99,7 @@ int main() {
 
 		//End of new code.
 
-		//system("umount /Volumes/iOS");
+		system("umount /Volumes/iOS");
 		printf("Unmounted VDisk\n");
 		sleep(1);
 		printf("Preparing To Invert iOS APFS Disk\n");
