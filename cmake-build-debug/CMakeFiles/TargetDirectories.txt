@@ -1,0 +1,3 @@
+/Users/jamesduffy/Documents/GithubSync/VirtualInstall/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jamesduffy/Documents/GithubSync/VirtualInstall/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamesduffy/Documents/GithubSync/VirtualInstall/cmake-build-debug/CMakeFiles/VirtualInstall.dir
