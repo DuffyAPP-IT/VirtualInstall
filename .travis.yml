@@ -1,2 +1,8 @@
 language: c
 os: osx
+addons:
+  apt:
+    packages:
+      - gcc-6
+      - g++-6
+      - cmake
