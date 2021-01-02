@@ -66,7 +66,7 @@ int main() {
 		system("hdiutil attach iOS.dmg");
 		
 		printf("Enter Disk identifier of */Volumes/iOS* in the form /dev/disk9s2 from the output above: ");
-		scanf("%s", &invapfs2);
+		scanf("%14s", &invapfs2);
 		char * invapfscom = concatenate(invapfs1, &invapfs2, invapfs3);
 		printf("\nWaiting For Connection To Disk...\n");
 		
